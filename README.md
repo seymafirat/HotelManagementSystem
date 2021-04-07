@@ -1,1 +1,1 @@
-Otel Yönetim Sistemi Simülasyonu
+Otel Yönetim Sistemi
