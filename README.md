@@ -1,1 +1,1 @@
-Otel Yönetim Sistemi
+This is Object Oriented Programming project.
